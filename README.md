@@ -101,7 +101,7 @@ Todo application with signup, sign-in, and dashboard pages built using React Rou
 
 - LinkedIn: https://linkedin.com/in/abdul-arsath-t-9329192a2
 - GitHub: https://github.com/aarsath
-- Email: Available on request
+- Email: abdularsath79@gmail.com
 
 ## Open to Opportunities
 
