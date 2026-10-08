@@ -33,7 +33,6 @@ I’m a fresher targeting Full-Stack Developer, Frontend Developer, and Software
 
 ### Programming
 - Python
-- C/C++
 - SQL basics
 
 ### AI / ML
